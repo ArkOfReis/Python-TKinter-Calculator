@@ -1,9 +1,9 @@
 ```
-(-) Steps to use play Tetris:
+(-) Steps to use the Calculator:
 
 (1) Move the Folder to the Desktop
 
-(2) Open 'Command Prompt' and type: 'cd C:\Users\{USER}\Desktop\Python-Tetris-Game-main'
+(2) Open 'Command Prompt' and type: 'cd C:\Users\{USER}\Desktop\Python-TKinter-Calculator-main'
 
 (3) Type: 'pip install -r requirements.txt'
 
@@ -11,5 +11,5 @@
 ```
 
 ```
-Please leave a rating at https://github.com/ArkOfReis/Python-Tetris-Game/issues/new
+Please leave a rating at https://github.com/ArkOfReis/Python-TKinter-Calculator/issues/new
 ```
